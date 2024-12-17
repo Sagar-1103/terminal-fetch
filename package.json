@@ -1,15 +1,15 @@
 {
   "name": "terminal-fetch",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "type": "module",
   "bin": {
     "terminal-fetch": "./bin/cli.js"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/Sagar-1103/terminal-fetch"
-},
+    "type": "git",
+    "url": "https://github.com/Sagar-1103/terminal-fetch"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
