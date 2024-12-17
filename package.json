@@ -8,7 +8,7 @@
   },
   "repository": {
   "type": "git",
-  "url": ""
+  "url": "https://github.com/Sagar-1103/terminal-fetch"
 },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
