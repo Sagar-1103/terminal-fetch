@@ -4,7 +4,7 @@ import { getRequest, postRequest, saveRequest, runRequest } from "../src/command
 
 program
   .version("1.0.0")
-  .description("CLI API Testing Tool - Test your REST APIs from the terminal");
+  .description("Terminal Fetch Tool - Test your REST APIs from the terminal");
 
 // GET request command
 program
